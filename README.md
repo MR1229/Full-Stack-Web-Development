@@ -1,6 +1,6 @@
 # Full Stack Web Development (MERN) 🚀
 
-Hi, I'm **Mahesh Pawar** (@MR1229).
+Hi, I'm **Mahesh Pawar**.
 
 Welcome to my Full Stack Web Development learning repository.
 
@@ -38,3 +38,4 @@ Here, I share my practice code, mini projects, full-stack applications, and note
 * Notes
 
 Thank you for visiting this repository!
+| @MR1229
